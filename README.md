@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/sandeep-helps/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sandeep-helps/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/sandeep-helps/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sandeep-helps/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sandeep-helps/LeetCode/tree/master/0242-valid-anagram) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sandeep-helps/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/sandeep-helps/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
