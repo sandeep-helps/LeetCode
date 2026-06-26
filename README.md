@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sandeep-helps/LeetCode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/sandeep-helps/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sandeep-helps/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-helps/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sandeep-helps/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sandeep-helps/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sandeep-helps/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-helps/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sandeep-helps/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sandeep-helps/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/sandeep-helps/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
