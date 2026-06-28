@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sandeep-helps/LeetCode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/sandeep-helps/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/sandeep-helps/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sandeep-helps/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-helps/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-helps/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sandeep-helps/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/sandeep-helps/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sandeep-helps/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sandeep-helps/LeetCode/tree/master/0054-spiral-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeep-helps/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
