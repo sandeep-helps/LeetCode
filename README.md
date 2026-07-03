@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sandeep-helps/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sandeep-helps/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandeep-helps/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-helps/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
 ## Design
 |  |
 | ------- |
