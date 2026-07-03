@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeep-helps/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sandeep-helps/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sandeep-helps/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sandeep-helps/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeep-helps/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sandeep-helps/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/sandeep-helps/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sandeep-helps/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
