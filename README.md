@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep-helps/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sandeep-helps/LeetCode/tree/master/0155-min-stack) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeep-helps/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sandeep-helps/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
