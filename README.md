@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep-helps/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
+| [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/sandeep-helps/LeetCode/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeep-helps/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandeep-helps/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Stack
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sandeep-helps/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandeep-helps/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sandeep-helps/LeetCode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/sandeep-helps/LeetCode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeep-helps/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
