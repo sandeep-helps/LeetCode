@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/sandeep-helps/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sandeep-helps/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sandeep-helps/LeetCode/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/sandeep-helps/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -186,10 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sandeep-helps/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/sandeep-helps/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandeep-helps/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/sandeep-helps/LeetCode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sandeep-helps/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sandeep-helps/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sandeep-helps/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
