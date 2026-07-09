@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandeep-helps/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/sandeep-helps/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Stack
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sandeep-helps/LeetCode/tree/master/0986-interval-list-intersections) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
