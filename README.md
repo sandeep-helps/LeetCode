@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandeep-helps/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Stack
@@ -246,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sandeep-helps/LeetCode/tree/master/0079-word-search) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
