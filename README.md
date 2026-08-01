@@ -304,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandeep-helps/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sandeep-helps/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sandeep-helps/LeetCode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/sandeep-helps/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
