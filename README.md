@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sandeep-helps/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/sandeep-helps/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sandeep-helps/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sandeep-helps/LeetCode/tree/master/0733-flood-fill) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sandeep-helps/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/sandeep-helps/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sandeep-helps/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sandeep-helps/LeetCode/tree/master/0733-flood-fill) |
@@ -323,10 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
