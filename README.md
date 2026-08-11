@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandeep-helps/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/sandeep-helps/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-helps/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sandeep-helps/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-helps/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/sandeep-helps/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 ## Design
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -343,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
