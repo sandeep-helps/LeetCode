@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/sandeep-helps/LeetCode/tree/master/0184-department-highest-salary) |
+| [1407-top-travellers](https://github.com/sandeep-helps/LeetCode/tree/master/1407-top-travellers) |
 ## Tree
 |  |
 | ------- |
