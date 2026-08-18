@@ -11,15 +11,10 @@ public:
                 return leftans;
             }
         }
-        
-        // FIX 1: Increment the counter when visiting current node
-        preorder++;
-        
-        // FIX 2: Check if current node is the kth smallest
+            preorder++;
         if(preorder == k){
             return root->val;
         }
-        
         if(root->right != NULL){
             int rightans = kthSmallest(root->right, k);
             if(rightans != -1){
