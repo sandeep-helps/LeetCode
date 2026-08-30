@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sandeep-helps/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/sandeep-helps/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sandeep-helps/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/sandeep-helps/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/sandeep-helps/LeetCode/tree/master/0402-remove-k-digits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sandeep-helps/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sandeep-helps/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sandeep-helps/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/sandeep-helps/LeetCode/tree/master/0729-my-calendar-i) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sandeep-helps/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sandeep-helps/LeetCode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sandeep-helps/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeep-helps/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -404,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sandeep-helps/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
