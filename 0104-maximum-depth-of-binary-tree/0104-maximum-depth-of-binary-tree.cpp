@@ -20,7 +20,6 @@ public:
         }
         int l = root->left != NULL ? maxDepth(root->left) : INT_MIN;
         int r = root->right != NULL ? maxDepth(root->right) : INT_MIN;
-
-        return 1+ max(l, r);
+        return 1 + max(l , r);
     }
 };
