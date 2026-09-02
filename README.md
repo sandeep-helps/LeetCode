@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sandeep-helps/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/sandeep-helps/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/sandeep-helps/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/sandeep-helps/LeetCode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep-helps/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-helps/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/sandeep-helps/LeetCode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sandeep-helps/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sandeep-helps/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sandeep-helps/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sandeep-helps/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/sandeep-helps/LeetCode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/sandeep-helps/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sandeep-helps/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sandeep-helps/LeetCode/tree/master/0733-flood-fill) |
@@ -422,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandeep-helps/LeetCode/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sandeep-helps/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sandeep-helps/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
