@@ -5,18 +5,18 @@ public:
         if(!root){
             return -1;
         }
+        int leftans = kthSmallest(root->left, k);
         if(root->left != NULL){
-            int leftans = kthSmallest(root->left, k);
             if(leftans != -1){
                 return leftans;
             }
         }
-            preorder++;
+        preorder++;
         if(preorder == k){
             return root->val;
         }
+        int rightans = kthSmallest(root->right, k);
         if(root->right != NULL){
-            int rightans = kthSmallest(root->right, k);
             if(rightans != -1){
                 return rightans;
             }
