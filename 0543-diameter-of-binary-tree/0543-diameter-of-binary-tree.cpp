@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+// diam of b-tree
     int height(TreeNode* root){
         if(!root){
             return 0;
