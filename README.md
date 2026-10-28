@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep-helps/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeep-helps/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep-helps/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sandeep-helps/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sandeep-helps/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sandeep-helps/LeetCode/tree/master/0733-flood-fill) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep-helps/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sandeep-helps/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep-helps/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -492,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sandeep-helps/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeep-helps/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-helps/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep-helps/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
