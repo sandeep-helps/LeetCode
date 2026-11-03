@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep-helps/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeep-helps/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep-helps/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sandeep-helps/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep-helps/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sandeep-helps/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep-helps/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
