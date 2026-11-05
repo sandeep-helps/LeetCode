@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/sandeep-helps/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/sandeep-helps/LeetCode/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sandeep-helps/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep-helps/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-helps/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeep-helps/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sandeep-helps/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sandeep-helps/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1094-car-pooling](https://github.com/sandeep-helps/LeetCode/tree/master/1094-car-pooling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep-helps/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sandeep-helps/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeep-helps/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep-helps/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sandeep-helps/LeetCode/tree/master/0189-rotate-array) |
 | [0986-interval-list-intersections](https://github.com/sandeep-helps/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep-helps/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeep-helps/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Union-Find
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/sandeep-helps/LeetCode/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/sandeep-helps/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandeep-helps/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep-helps/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeep-helps/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
